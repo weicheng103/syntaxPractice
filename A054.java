@@ -1,9 +1,14 @@
+<<<<<<< HEAD
 package syntexPractice;
+=======
+package syntaxPractice;
+>>>>>>> da2a247cc4f705523805bfff29d631a8f122293c
 
 import java.util.Scanner;
 
 public class A054 {
 	// a054: 電話客服中心
+<<<<<<< HEAD
 	private static char f(String id) {
 		int tmp = 0;
 		int a = 1;
@@ -22,6 +27,8 @@ public class A054 {
 
 	}
 
+=======
+>>>>>>> da2a247cc4f705523805bfff29d631a8f122293c
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 
